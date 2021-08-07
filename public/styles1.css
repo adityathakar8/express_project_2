@@ -1,0 +1,11 @@
+ .success{
+  position: static;
+   width: 50%;
+   text-align:center;
+   background-color:#EEEEEE;
+
+   border-radius: 7%;
+   margin: auto;
+   margin-top: 200px;
+   padding: 100px;
+ }
